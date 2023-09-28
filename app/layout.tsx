@@ -9,16 +9,16 @@ export const metadata: Metadata = {
 		default: "Victor Severin",
 		template: "victorseverin.dev",
 	},
-	description: "Software engineer Intern at CA EDD",
+	description: "Computer Science Student",
 	openGraph: {
 		title: "victorseverin.dev",
 		description:
-			"Software engineer Intern at CA EDD",
+			"Computer Science Student",
 		url: "https://victorseverin.dev",
 		siteName: "Victor Severin",
 		images: [
 			{
-				url: "./logo.png",
+				url: "./logo-white.png",
 				width: 1920,
 				height: 1080,
 			},
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
 		card: "summary_large_image",
 	},
 	icons: {
-		shortcut: "/logo.png",
+		shortcut: "/logo-white.png",
 	},
 };
 const inter = Inter({
