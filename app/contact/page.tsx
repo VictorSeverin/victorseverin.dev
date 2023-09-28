@@ -1,11 +1,17 @@
 "use client";
-import { Github, Mail, Linkedin } from "lucide-react";
+import { Github, Mail, Linkedin, FileText } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
 
 const socials = [
 
+	{
+		icon: <FileText size={20} />,
+		href: "https://utfs.io/f/1d0b25c9-8907-4cb2-b5d3-002f193476c9-fgc05v.pdf",
+		label: "Download",
+		handle: "Resume",
+	},
 	{
 		icon: <Mail size={20} />,
 		href: "mailto:victor.severin7@gmail.com",
