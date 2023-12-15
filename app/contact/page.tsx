@@ -8,7 +8,7 @@ const socials = [
 
 	{
 		icon: <FileText size={20} />,
-		href: "https://utfs.io/f/1d0b25c9-8907-4cb2-b5d3-002f193476c9-fgc05v.pdf",
+		href: "https://utfs.io/f/72d91ada-7f4d-44b6-9ffc-061d1bdbd608-ylqb5n.pdf",
 		label: "Download",
 		handle: "Resume",
 	},
